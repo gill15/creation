@@ -1,0 +1,8 @@
+__pycache__/
+*.log
+*.lock
+*.pyc
+*.pt
+*.bin
+*.ckpt
+tiny-book-model/
